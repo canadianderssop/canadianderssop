@@ -1,6 +1,6 @@
 👋 Hello there! I’m Derek!
 - I'm a sophomore majoring in Computer Science and Biology at McGill University.
-- I'm interested in coding to solve problems in biology (Genomics/Bioinformatics, Brain MRI Image Analysis).
+- I'm interested in coding to solve problems in biology (genomics/bioinformatics, brain MRI image analysis for traumatic brain injuries).
 - ⚡ Fun fact: I'm a multi-instrumentalist (piano, drums, a little bit of guitar).
 
 <!---
