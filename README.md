@@ -1,6 +1,6 @@
 👋 Hello there! I’m Derek!
 - I'm a sophomore majoring in Computer Science and Biology at McGill University.
-- I'm interested in coding to solve problems in biology (pharmaceutical/disease research) and music tech (applications in acoustics and sound perception). 
+- I'm interested in coding to solve problems in biology (Genomics/Bioinformatics, Brain MRI Image Analysis).
 - ⚡ Fun fact: I'm a multi-instrumentalist (piano, drums, a little bit of guitar).
 
 <!---
