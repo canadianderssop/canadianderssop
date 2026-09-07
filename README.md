@@ -1,6 +1,7 @@
 👋 Hello there! I’m Derek!
-- I'm a sophomore majoring in Computer Science and Biology at McGill University.
-- I'm interested in coding to solve problems in biology (genomics/bioinformatics, brain MRI image analysis for traumatic brain injuries).
+- I'm a Master's student in Biomedical Engineering at Johns Hopkins University. 
+- I did my undergrad in Computer Science and Biology at McGill University where I worked as a research assistant at the Montreal Neurological Institute (MNI).
+- My latest project is a brain functional network classifier that leverages brain atlases and spatial correlation. 
 - ⚡ Fun fact: I'm a multi-instrumentalist (piano, drums, a little bit of guitar).
 
 <!---
